@@ -14,13 +14,4 @@ In terms of the equipment needed for this project, we are planning on using a jo
 
 We will use the board’s dedicated ADC inputs to read the analog signal from the joystick, the board’s dedicated PWM pins to power the RGB LED, and other GPIO pins for digital reading from the buttons. We can connect to our laptop using the board’s dedicated serial port over USB, and our GUI will be built in python.
 
-## Feedback.
-
-This project has a lot of hardware components! I like the idea of mathcing the RGB led to the drawing color. Just in terms of working on the whole systems, you should first focus on the core functionality and then add more features later. It seem like the joystick is going to be main thing to show that the drawing game works. 
-
-Is the joystick module based on potentiometers or does it output voltages? Double check that it works on a 3.3V system. Specifically, if it is a 5V module add appropriate voltage dividers if neccesary. 
-
-## Welcome team! Please edit me.
-### You can use the 'main' branch for you code.
-### The GitHub web-page should be in the 'gh-pages' branch
-You can access the page adding a "pages" prefix to the url for the git repo e.g. if your browser currently shows https://github.coecis.cornell.edu/ece3140-sp22/ehs86-mck65-tws76 then the GitHub page is at https://pages.github.coecis.cornell.edu/ece3140-sp22/ehs86-mck65-tws76 . You can edit the source in the gh-pages branch or use the "automatic page generator" acessible via settings->options in the GitHub Pages Section toward the bottom. We recommend the latter approach since it is quick and easy. We made an initial wepage that you can edit and a description of the headings we expect to see.
+Check our website out with the video at https://pages.github.coecis.cornell.edu/ece3140-sp22/ehs86-mck65-tws76
