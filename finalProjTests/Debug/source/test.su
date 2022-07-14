@@ -1,0 +1,5 @@
+../source/test.c:28:6:init_uart	8	static
+../source/test.c:38:6:uart_putc	16	static
+../source/test.c:46:6:uart_puts	16	static
+../source/test.c:55:6:short_delay	16	static
+../source/test.c:60:5:main	72	static
